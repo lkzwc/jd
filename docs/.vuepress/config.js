@@ -16,17 +16,15 @@ export default defineUserConfig({
             text: "关于我们",
             link: "/about",
           },
+          {
+            text: "一起领大额券",
+            link: "https://work.weixin.qq.com/gm/6c83ecabb445ff6f13b95498a91c03e1",
+          },
         ],
         sidebar: {
           "/share": [
             {
               text: "每日分享",
-              children: ["/share/index.md", "/share/1.md"],
-            },
-          ],
-          "/share1": [
-            {
-              text: "每日分享9.9",
               children: ["/share/index.md", "/share/1.md"],
             },
           ],

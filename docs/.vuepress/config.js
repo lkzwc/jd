@@ -3,7 +3,11 @@ import { defaultTheme, defineUserConfig } from "vuepress";
 export default defineUserConfig({
   base: "/",
   title: "京东优惠券群",
-  description: "京东优惠券群,每日分享京东优惠券,各种购物优惠都在微信群内畅享",
+  description: "京东优惠券群,每日分享京东优惠,加入微信群畅享各种购物优惠",
+  head: [
+    ["meta", { name: "baidu-site-verification", content: "codeva-JBFEaDTQdi" }],
+    ["meta", { name: "keywords", content: "京东优惠券,优惠券群,微信群" }],
+  ],
   theme: defaultTheme({
     locales: {
       "/": {

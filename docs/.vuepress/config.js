@@ -11,32 +11,26 @@ export default defineUserConfig({
           {
             text: "好物分享",
             link: "/share",
-            // children: [
-            //   {
-            //     text: "每日秒杀",
-            //     children: ["../share/1.md"],
-            //   },
-            //   {
-            //     text: "9.9",
-            //     children: ["../share/2.md"],
-            //   },
-            // ],
           },
           {
             text: "关于我们",
-            link: "/",
+            link: "/about",
           },
         ],
-        sidebar: [
-          {
-            "/share": [
-              {
-                text: "每日分享",
-                children: ["../share/2.md"],
-              },
-            ],
-          },
-        ],
+        sidebar: {
+          "/share": [
+            {
+              text: "每日分享",
+              children: ["/share/index.md", "/share/1.md"],
+            },
+          ],
+          "/share1": [
+            {
+              text: "每日分享9.9",
+              children: ["/share/index.md", "/share/1.md"],
+            },
+          ],
+        },
         editLinkText: "联系",
       },
     },

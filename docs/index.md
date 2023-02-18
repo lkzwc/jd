@@ -1,10 +1,9 @@
 ---
 home: true
-title: Home
 heroImage: /images/jd.webp
 actions:
-  - text: 首页
-    link: /
+  - text: 领取优惠券
+    link: /about
     type: primary
   - text: 好物分享
     link: /share/1.md

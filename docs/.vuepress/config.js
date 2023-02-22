@@ -17,6 +17,10 @@ export default defineUserConfig({
             link: "/share",
           },
           {
+            text: "流量卡免费领",
+            link: "/flow",
+          },
+          {
             text: "关于我们",
             link: "/about",
           },

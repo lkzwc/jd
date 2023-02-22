@@ -6,7 +6,7 @@ actions:
     link: /about
     type: primary
   - text: 好物分享
-    link: /share/1.md
+    link: /share/niunai.md
     type: secondary
 features:
   - title: 精品好物分享

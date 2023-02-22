@@ -29,7 +29,11 @@ export default defineUserConfig({
           "/share": [
             {
               text: "每日分享",
-              children: ["/share/index.md", "/share/meizhuang.md"],
+              children: [
+                "/share/index.md",
+                "/share/meizhuang.md",
+                "/share/niunai.md",
+              ],
             },
           ],
         },

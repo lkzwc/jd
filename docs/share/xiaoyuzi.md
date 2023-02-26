@@ -16,7 +16,7 @@ title: 劲仔 小鱼仔30包+魔芋爽30包（共60包）
 
 ## 图片预览
 
-![图片](/images/niunai.webp)
+![图片](/images/yuzi.webp)
 
 ## 更多优惠
 

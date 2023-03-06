@@ -6,6 +6,15 @@ export default defineUserConfig({
   description: "京东优惠券群,每日分享京东优惠,加入微信群畅享各种购物优惠",
   head: [
     ["meta", { name: "baidu-site-verification", content: "codeva-JBFEaDTQdi" }],
+    [
+      "meta",
+      {
+        name: "360-site-verification",
+        content: "94c9f33945f66ef0cb7c21955804be61",
+      },
+    ],
+    ["meta", { name: "bytedance-verification-code", content: "e0qMeNiQ" }],
+    ["meta", { name: "sogou_site_verification", content: "mffALxnk01" }],
     ["meta", { name: "keywords", content: "京东优惠券,优惠券群,微信群" }],
   ],
   theme: defaultTheme({

@@ -1,5 +1,7 @@
 ---
 title: 优惠券群
+keywords: 优惠券
+description: 优惠券群-京东优惠券群
 ---
 
 ## 领取优惠

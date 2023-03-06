@@ -39,6 +39,7 @@ export default defineUserConfig({
                 "/share/niunai.md",
                 "/share/xiaoyuzi.md",
                 "/share/ysld.md",
+                "/share/xiyiye.md",
               ],
             },
           ],

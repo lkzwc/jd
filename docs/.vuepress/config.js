@@ -50,6 +50,7 @@ export default defineUserConfig({
                 "/share/xiaoyuzi.md",
                 "/share/ysld.md",
                 "/share/xiyiye.md",
+                "/share/liangppz.md",
               ],
             },
           ],

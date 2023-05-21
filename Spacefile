@@ -1,0 +1,10 @@
+v: 0
+icon: ./icon.png
+app_name: "jdq"
+micros:
+  - name: jdq-app
+    src: ./docs/.vuepress/dist
+    engine: vue
+    commands:
+      - npm install
+      - npm run build

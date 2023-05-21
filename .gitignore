@@ -24,3 +24,5 @@ coverage/
 
 # Typescript build info
 *.tsbuildinfo
+
+.space

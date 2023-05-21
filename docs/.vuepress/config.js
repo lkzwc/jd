@@ -51,6 +51,7 @@ export default defineUserConfig({
                 "/share/ysld.md",
                 "/share/xiyiye.md",
                 "/share/liangppz.md",
+                "/share/fanshaiyi.md",
               ],
             },
           ],
